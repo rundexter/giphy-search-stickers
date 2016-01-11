@@ -1,0 +1,12 @@
+{
+  "name": "giphy-search-stickers",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Arman Yeghiazaryan",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "giphy-api": "^1.1.11"
+  }
+}
