@@ -1,12 +1,16 @@
 {
-  "name": "giphy-search-stickers",
-  "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
-  "author": "Arman Yeghiazaryan",
-  "license": "ISC",
-  "private": true,
-  "dependencies": {
-    "giphy-api": "^1.1.11"
-  }
+   "name": "giphy-search-stickers",
+   "version": "0.0.1",
+   "description": "Search that returns animated stickers",
+   "main": "index.js",
+   "author": "Run Dexter, Inc",
+   "license": "MIT",
+   "private": true,
+   "dependencies": {
+      "giphy-api": "^1.1.11"
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/rundexter/giphy-search-stickers"
+   }
 }
